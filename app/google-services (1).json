@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328915127270",
+    "project_id": "syfsdi",
+    "storage_bucket": "syfsdi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328915127270:android:d2cc7ba20bf02389872427",
+        "android_client_info": {
+          "package_name": "com.syfsdi.ch6_dependencyinjctmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328915127270-r6lc3qkqvhaeiuuusdthqbdcahmeq5ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXEZczubj9fyHeZL-ou2R9xzcKWh3dRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328915127270-r6lc3qkqvhaeiuuusdthqbdcahmeq5ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
